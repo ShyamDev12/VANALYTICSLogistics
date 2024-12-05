@@ -1,5 +1,7 @@
 VAnalytics - Logistics Management System
 
+ULIP API USED : VAHAN, FASTAG, SARATHI
+
 Problem Statement :
 The logistics industry faces numerous challenges such as inefficient route planning, high operational costs, underutilized assets, and lack of real-time data integration. These pain points lead to delays, increased expenses, and reduced efficiency across the value chain.
 
