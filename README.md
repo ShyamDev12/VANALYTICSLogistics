@@ -24,4 +24,4 @@ URL : https://analyticsdata.tech/login
 Email : admin@admin.com
 Pass   : 123456
 
-![https://github.com/ShyamDev12/VANALYTICSLogistics/blob/main/CentralBoard.jpg]
+!(https://github.com/ShyamDev12/VANALYTICSLogistics/blob/main/CentralBoard.jpg)
